@@ -5,7 +5,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/newguobiao/count.svg)
 
 
-✨ **Goal is Self-Consistent AI** ✨
+✨ ** 凡所有相，皆是虚妄 ** ✨
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jingyaogong&show_icons=true&theme=merko)
